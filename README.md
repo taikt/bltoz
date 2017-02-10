@@ -23,3 +23,8 @@ automake
 autoconf
 
 ./configure
+
+
+2. Book
+
+http://it-ebooks.directory/book-1491949511.html
