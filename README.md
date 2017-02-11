@@ -11,6 +11,7 @@ apt-get install libglib2.0-dev //glibc
 apt-get install libdbus-1-dev //dbus
 
 apt-get install automake //automake
+
 apt-get install autoconf //autoconf
 
 apt-get install libudev-dev
