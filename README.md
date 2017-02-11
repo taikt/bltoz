@@ -14,15 +14,21 @@ apt-get install automake //automake
 
 apt-get install autoconf //autoconf
 
+sudo apt-get install libtool
+
 apt-get install libudev-dev
 
 apt-get install libical-dev
 
 sudo apt-get install libreadline6 libreadline6-dev
 
+libtoolize
+
 aclocal
 
 autoheader
+
+automake --add-missing
 
 automake
 
@@ -30,6 +36,7 @@ autoconf
 
 ./configure
 
+make && make install
 
 2. Book
 
